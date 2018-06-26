@@ -1,0 +1,4 @@
+c:\users\dan\documents\visual studio 2010\Projects\The Room\The Room\bin\Debug\The Room.exe
+c:\users\dan\documents\visual studio 2010\Projects\The Room\The Room\bin\Debug\The Room.pdb
+c:\users\dan\documents\visual studio 2010\Projects\The Room\The Room\obj\x86\Debug\The Room.exe
+c:\users\dan\documents\visual studio 2010\Projects\The Room\The Room\obj\x86\Debug\The Room.pdb
