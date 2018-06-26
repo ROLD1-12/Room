@@ -1,4 +1,0 @@
-c:\users\dan\documents\visual studio 2010\Projects\Room\Room\bin\Debug\Room.exe
-c:\users\dan\documents\visual studio 2010\Projects\Room\Room\bin\Debug\Room.pdb
-c:\users\dan\documents\visual studio 2010\Projects\Room\Room\obj\x86\Debug\Room.exe
-c:\users\dan\documents\visual studio 2010\Projects\Room\Room\obj\x86\Debug\Room.pdb
